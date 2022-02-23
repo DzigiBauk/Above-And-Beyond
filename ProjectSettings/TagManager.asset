@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Particles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 135887299
+    locked: 0
+  - name: Ground
+    uniqueID: 2448984039
+    locked: 0
+  - name: Particles
+    uniqueID: 3762759229
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Rocket Boosters
+    uniqueID: 1938072017
+    locked: 0
+  - name: Rocket Body
+    uniqueID: 2828273895
+    locked: 0
+  - name: Rocket Roof
+    uniqueID: 1676647183
+    locked: 0
+  - name: Rocket Thrusters
+    uniqueID: 1255485275
+    locked: 0
